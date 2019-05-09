@@ -67,7 +67,7 @@ h1:hover{
 .home_info{
 	height: 509px;
 	background: #ffffff;
-	background-image: url("Dock2395.github.io/home.png") center center no-repeat;
+	background-image: url("Dock2395.github.io/CSS/home.png") center center no-repeat;
 	background-size: cover;
 	margin-bottom: 100px;
 }
@@ -228,7 +228,7 @@ h4.title_form:after{
 	margin-bottom: 100px;
 }
 .button_form{
-    background: url("https://Dock2395.github.io/send icon.png");
+    background: url("https://Dock2395.github.io/CSS/send icon.png");
 	height: 17px;
 	width: 32px;
 	border: 0px;
