@@ -62,21 +62,20 @@ h1:hover{
 	width: 98%;
 	max-width: 900px;
 	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	height: 100%;
 }
 
 .home_info{
 	height: 509px;
 	background: #ffffff url("https://Dock2395.github.io/CSS/home.png") center center no-repeat;
-	background-size: cover;
 	margin-bottom: 100px;
 }
-.wraper{
-	display: flex;
-	align-items: center;
-	height: 100%;
-}
+
 .info_data {
-	max-width: 350px;
+    max-width: 350px;
+    padding-left: 20px;
 }
 
 .info_data h2{
@@ -174,21 +173,21 @@ article.content_with_foto{
 .block1{
 	margin-bottom: 135px;
 	flex-flow: wrap;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: space-between;
 	width: calc(100% - 10px);
 }
 .block2{
 	margin-bottom: 125px;
 	flex-flow: wrap;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: space-between;
 	width: calc(100% - 10px);
 }
 .block3{
 	margin-bottom: 75px;
 	flex-flow: wrap;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: space-between;
 	width: calc(100% - 10px);
 }
