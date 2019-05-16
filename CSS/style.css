@@ -273,6 +273,7 @@ h4.title_form:after{
 
 footer{
 	display: flex;
+	flex-flow: wrap;
 	min-height: 100px;
 	background: #f0f0f0;
 	margin: 0px -70px -70px -70px;
@@ -283,6 +284,7 @@ footer{
 
 }
 .footer_menu{
+	margin-right: 20px;
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
 	line-height: 24px;
@@ -303,8 +305,17 @@ footer{
 
 .footer_soshials{
 	display: flex;
+	flex-flow: wrap;
 	justify-content: space-around;
-	width: calc(15% - 10px);
+
+}
+
+.footer_soshials_icons{
+	display: flex;
+	justify-content: space-around;
+	min-width: 100px;
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 
