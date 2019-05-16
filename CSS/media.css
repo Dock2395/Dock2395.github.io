@@ -155,10 +155,10 @@
 @media (max-width:500px){
 
 	.form_for_email{
-	min-width: 200px;
+	min-width: 250px;
   }
 	.input_email{
-	min-width: 200px;
+	min-width: 250px;
   }
 }
 
