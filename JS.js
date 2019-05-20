@@ -23,6 +23,6 @@ $(".btn_for_menu").click(function(){
 	$(".top_right_nav").toggleClass("top_right_nav_active");
 } )
 
-$(".more").click(function(){
+$(".load_more").click(function(){
 	$(".block4").toggleClass("block4_active");
 } )

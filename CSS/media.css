@@ -124,34 +124,20 @@
 }
 
 @media (max-width:1050px){
-	.block1{
+	.block1, .block2, .block3, .block4{
 		justify-content: space-around;
 		width: calc(100% - 60px);
 	}
-	.block2{
-		justify-content: space-around;
-		width: calc(100% - 60px);
-	}
-	.block3{
-		justify-content: space-around;
-		width: calc(100% - 60px);
-	}
-	.block4{
-		justify-content: space-around;
-		width: calc(100% - 60px);
-	}
+
 }
 
 @media (max-width:930px){
 
-	.block1{
-	justify-content: space-around;
-	width: calc(100% - 40px);
-	}
-	.block2{
+		.block1, .block2, .block3, .block4{
 		justify-content: space-around;
 		width: calc(100% - 40px);
 	}
+
 
 	.home_info{
 	height: 450px;
