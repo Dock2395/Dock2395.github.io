@@ -132,6 +132,14 @@
 		justify-content: space-around;
 		width: calc(100% - 60px);
 	}
+	.block3{
+		justify-content: space-around;
+		width: calc(100% - 60px);
+	}
+	.block4{
+		justify-content: space-around;
+		width: calc(100% - 60px);
+	}
 }
 
 @media (max-width:930px){

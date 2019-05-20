@@ -191,6 +191,17 @@ article.content_with_foto{
 	justify-content: space-between;
 	width: calc(100% - 10px);
 }
+.block4{
+	display: none;
+}
+.block4_active{
+	display: flex;
+	margin-bottom: 75px;
+	flex-flow: wrap;
+	align-items: flex-start;
+	justify-content: space-between;
+	width: calc(100% - 10px);
+}
 
 
 .form_email{
